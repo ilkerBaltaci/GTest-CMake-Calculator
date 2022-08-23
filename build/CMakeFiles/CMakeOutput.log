@@ -9,8 +9,8 @@ The output was:
 .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
 Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
 
-Oluşturma başlatıldı: 2022-08-23 22:31:11.
-1 düğümünde "C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.vcxproj" projesi (varsayılan hedefler).
+Oluşturma başlatıldı: 2022-08-24 00:22:35.
+1 düğümünde "C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.vcxproj" projesi (varsayılan hedefler).
 PrepareForBuild:
   "Debug\" dizini oluşturuluyor.
   "Debug\CompilerIdC.tlog\" dizini oluşturuluyor.
@@ -21,7 +21,7 @@ ClCompile:
   CMakeCCompilerId.c
 Link:
   E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 "Debug\CMakeCCompilerId.obj"
-  CompilerIdC.vcxproj -> C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.exe
+  CompilerIdC.vcxproj -> C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
   :VCEnd
@@ -29,20 +29,20 @@ PostBuildEvent:
 FinalizeBuildStatus:
   "Debug\CompilerIdC.tlog\unsuccessfulbuild" dosyası siliniyor.
   "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate" öğesine erişiliyor.
-"C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+"C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdC\CompilerIdC.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
 
 Oluşturma başarılı oldu.
     0 Uyarı
     0 Hata
 
-Geçen Süre 00:00:03.79
+Geçen Süre 00:00:01.32
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
 
-The C compiler identification is MSVC, found in "C:/Users/ilker/Desktop/CMake-GTest/GTest-CMake-Calculator/build/CMakeFiles/3.23.1/CompilerIdC/CompilerIdC.exe"
+The C compiler identification is MSVC, found in "C:/Users/ilker/Desktop/deneme/GTest-CMake-Calculator/build/CMakeFiles/3.23.1/CompilerIdC/CompilerIdC.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler:  
@@ -54,8 +54,8 @@ The output was:
 .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
 Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
 
-Oluşturma başlatıldı: 2022-08-23 22:31:15.
-1 düğümünde "C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.vcxproj" projesi (varsayılan hedefler).
+Oluşturma başlatıldı: 2022-08-24 00:22:36.
+1 düğümünde "C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.vcxproj" projesi (varsayılan hedefler).
 PrepareForBuild:
   "Debug\" dizini oluşturuluyor.
   "Debug\CompilerIdCXX.tlog\" dizini oluşturuluyor.
@@ -66,7 +66,7 @@ ClCompile:
   CMakeCXXCompilerId.cpp
 Link:
   E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 "Debug\CMakeCXXCompilerId.obj"
-  CompilerIdCXX.vcxproj -> C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.exe
+  CompilerIdCXX.vcxproj -> C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
   :VCEnd
@@ -74,46 +74,46 @@ PostBuildEvent:
 FinalizeBuildStatus:
   "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" dosyası siliniyor.
   "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate" öğesine erişiliyor.
-"C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+"C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\3.23.1\CompilerIdCXX\CompilerIdCXX.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
 
 Oluşturma başarılı oldu.
     0 Uyarı
     0 Hata
 
-Geçen Süre 00:00:01.34
+Geçen Süre 00:00:00.97
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/ilker/Desktop/CMake-GTest/GTest-CMake-Calculator/build/CMakeFiles/3.23.1/CompilerIdCXX/CompilerIdCXX.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/ilker/Desktop/deneme/GTest-CMake-Calculator/build/CMakeFiles/3.23.1/CompilerIdCXX/CompilerIdCXX.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/ilker/Desktop/CMake-GTest/GTest-CMake-Calculator/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/ilker/Desktop/deneme/GTest-CMake-Calculator/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e349f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
+Run Build Command(s):E:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_dcb27.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
 Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
 
   x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.31.31105
   CMakeCCompilerABI.c
   Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e349f.dir\Debug\\" /Fd"cmTC_e349f.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.23\Modules\CMakeCCompilerABI.c"
-  cmTC_e349f.vcxproj -> C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\CMakeTmp\Debug\cmTC_e349f.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dcb27.dir\Debug\\" /Fd"cmTC_dcb27.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.23\Modules\CMakeCCompilerABI.c"
+  cmTC_dcb27.vcxproj -> C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\CMakeTmp\Debug\cmTC_dcb27.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/ilker/Desktop/CMake-GTest/GTest-CMake-Calculator/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/ilker/Desktop/deneme/GTest-CMake-Calculator/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2adeb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
+Run Build Command(s):E:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_72195.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && .NET Framework için Microsoft (R) Build Engine sürüm 17.1.0+ae57d105c
 Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
 
   x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.31.31105
   CMakeCXXCompilerABI.cpp
   Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_2adeb.dir\Debug\\" /Fd"cmTC_2adeb.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.23\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_2adeb.vcxproj -> C:\Users\ilker\Desktop\CMake-GTest\GTest-CMake-Calculator\build\CMakeFiles\CMakeTmp\Debug\cmTC_2adeb.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_72195.dir\Debug\\" /Fd"cmTC_72195.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.23\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_72195.vcxproj -> C:\Users\ilker\Desktop\deneme\GTest-CMake-Calculator\build\CMakeFiles\CMakeTmp\Debug\cmTC_72195.exe
 
 
 
