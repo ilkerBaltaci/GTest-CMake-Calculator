@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 
-set(This Calculator)
+set(This GTEST-CMAKE-CALCULATOR)
 
 project(${This} C CXX)
 
