@@ -1,0 +1,35 @@
+Start testing: Aug 23 18:53 Turkey Standard Time
+----------------------------------------------------------
+1/1 Testing: CalculatorTests
+1/1 Test: CalculatorTests
+Command: "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/test/Debug/CalculatorTests.exe"
+Directory: C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/test
+"CalculatorTests" start time: Aug 23 18:53 Turkey Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\ilker\Desktop\CmakeProject\Calculator\googletest\googletest\src\gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from CalculatorTests
+[ RUN      ] CalculatorTests.sum
+[       OK ] CalculatorTests.sum (0 ms)
+[ RUN      ] CalculatorTests.substract
+[       OK ] CalculatorTests.substract (0 ms)
+[ RUN      ] CalculatorTests.multiply
+[       OK ] CalculatorTests.multiply (0 ms)
+[ RUN      ] CalculatorTests.division
+[       OK ] CalculatorTests.division (0 ms)
+[----------] 4 tests from CalculatorTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTests" end time: Aug 23 18:53 Turkey Standard Time
+"CalculatorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 23 18:53 Turkey Standard Time

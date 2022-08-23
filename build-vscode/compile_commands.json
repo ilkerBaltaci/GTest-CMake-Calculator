@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe   -std=gnu++11 -o CMakeFiles\\Calculator.dir\\Calculator.cpp.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\Calculator.cpp",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/Calculator.cpp"
+},
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/googletest/googlemock",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/googletest/googlemock",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/googletest/googletest",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/googletest/googletest",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/test",
+  "command": "C:\\MinGW64\\MinGW64\\bin\\g++.exe  @CMakeFiles/CalculatorTests.dir/includes_CXX.rsp -std=gnu++14 -o CMakeFiles\\CalculatorTests.dir\\CalculatorTests.cpp.obj -c C:\\Users\\ilker\\Desktop\\CmakeProject\\Calculator\\test\\CalculatorTests.cpp",
+  "file": "C:/Users/ilker/Desktop/CmakeProject/Calculator/test/CalculatorTests.cpp"
+}
+]

@@ -1,0 +1,10 @@
+^C:\USERS\ILKER\DESKTOP\CMAKEPROJECT\CALCULATOR\GOOGLETEST\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ilker/Desktop/CmakeProject/Calculator -BC:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode --check-stamp-file C:/Users/ilker/Desktop/CmakeProject/Calculator/build-vscode/googletest/googletest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220823-1544-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.23.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-8JV7TBV"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="37312"
+	TotalPhysicalMemory="32448"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2803"
+	>
+	<Testing>
+		<StartDateTime>Aug 23 18:53 Turkey Standard Time</StartDateTime>
+		<StartTestTime>1661270017</StartTestTime>
+		<TestList>
+			<Test>./test/CalculatorTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>CalculatorTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/CalculatorTests</FullName>
+			<FullCommandLine>C:\Users\ilker\Desktop\CmakeProject\Calculator\build-vscode\test\Debug\CalculatorTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0305797</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\ilker\Desktop\CmakeProject\Calculator\build-vscode\test\Debug\CalculatorTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkk1PwzAMhu/9FT6uh1YgcULigDrEAQmmjp2aCmWZqULzUSXOEP+edu0KnWDre3LiN4/jxHkwRpoKNJdmEcO7sxqyW7bx6DyTqkbHluhrsg3LNK9x5ewHCmIZVyIoTtaxytpKIaGn36F3glVd9NahUyGi4m5UCflQ9wY6j+8LXx8W4IMkTKMiGVXCo7Jbrvo8mr101mg0rRcpCc2JeQL9uelrtxkVkG+e4aDyNJn6oFtDr5envw2wuALt40ugrSfHBV3CDbZZUB0UyUZ9nWceXbOQO7mXXlpzHnl0jci5r90fALLEVRzN+1JC7pKd/TTTifl3UsBxk04Ltc2s7tfrh2XX8nAwjb4BHUPx7Q==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 23 18:53 Turkey Standard Time</EndDateTime>
+		<EndTestTime>1661270017</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
